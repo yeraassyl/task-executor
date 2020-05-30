@@ -1,0 +1,1 @@
+select BLACKLIST_REASON from BLACKLIST where IIN="#IIN#"
