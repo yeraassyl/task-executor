@@ -18,7 +18,7 @@
         <mysql.version>8.0.14</mysql.version>
         <h2.version>1.4.199</h2.version>
         <groovy.version>2.4.13</groovy.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
     </properties>
 
     <build>
