@@ -1,5 +1,5 @@
-# KaspiLAB project
-Decision making system implementation.
+# Kaspi Bank Project
+Crediting decision making system for banks.
 
 ## Prerequisites
 
