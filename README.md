@@ -1,4 +1,4 @@
-# Kaspi Bank Project
+# Kaspi Bank Project (Archived !!)
 Crediting decision making system for banks.
 
 ## Prerequisites
