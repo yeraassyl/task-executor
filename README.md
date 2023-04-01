@@ -1,4 +1,4 @@
-# Kaspi Bank Project (Archived !!)
+# Task executor
 Crediting decision making system for banks.
 
 ## Prerequisites
